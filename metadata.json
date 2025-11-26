@@ -1,0 +1,5 @@
+{
+  "name": "SmartSpend AI",
+  "description": "A personal finance dashboard powered by Gemini to track expenses, categorize transactions automatically, and provide smart financial insights.",
+  "requestFramePermissions": []
+}
